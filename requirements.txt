@@ -3,7 +3,7 @@ torch_geometric
 pyarrow
 pandas 
 pyarrow 
-scikit-learn
+scikit-learn>=1.2
 numpy
 networkx
 matplotlib
